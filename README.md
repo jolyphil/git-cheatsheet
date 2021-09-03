@@ -5,7 +5,7 @@ Frequently used series of commands in Git
 
 1. Create and switch to a new branch
 
-```git
+```gitconfig
 git checkout -b newbranch
 ```
 
